@@ -1,6 +1,12 @@
 # TFG
 Algoritmos heurísticos para problemas de recogida de pedidos en tienda
 
+Trabajo Fin de Grado de la Escuela Superior de Ingeniería Informática de Albacete
+
+Tutor: Francisco Parreño Torres
+Co-tutora: María Teresa Alonso Martínez
+Alumno: Alejandro Fernández Arjona
+
 El código se divide en las siguientes clases:
   - **almacen2**: Se encarga de crear el almacén, los pedidos y mostrar la interfaz gráfica.
   - **dinamica**: Resuelve las rutas mediante programación dinámica.
